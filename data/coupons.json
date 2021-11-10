@@ -1,6 +1,10 @@
 [
     {
         "code" : "OFR001",
+        "discount" : {
+            "type": "percentage",
+            "value": "10"
+        },
         "validation" : [
             { 
                 "attribute" : "distance",  
@@ -25,6 +29,10 @@
 
     {
         "code" : "OFR002",
+        "discount" : {
+            "type": "percentage",
+            "value": "7"
+        },
         "validation" : [
             { 
                 "attribute" : "distance",  
@@ -49,6 +57,10 @@
 
     {
         "code" : "OFR003",
+        "discount" : {
+            "type": "percentage",
+            "value": "5"
+        },
         "validation" : [
             { 
                 "attribute" : "distance",  
