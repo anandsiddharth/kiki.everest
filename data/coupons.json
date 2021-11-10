@@ -1,0 +1,75 @@
+[
+    {
+        "code" : "OFR001",
+        "validation" : [
+            { 
+                "attribute" : "distance",  
+                "rules": [ 
+                    { 
+                        "type" : "le", "value": 200
+                    } 
+                ]
+            },
+            {
+                "attribute" : "weight",
+                "rules": [
+                    {
+                        "type": "range",
+                        "value": { "from": 70, "to": 200 } 
+                    }
+                ]
+            }
+        ]
+
+    },
+
+    {
+        "code" : "OFR002",
+        "validation" : [
+            { 
+                "attribute" : "distance",  
+                "rules": [ 
+                    { 
+                        "type": "range",
+                        "value": { "from": 50, "to": 150 } 
+                    } 
+                ]
+            },
+            {
+                "attribute" : "weight",
+                "rules": [
+                    {
+                        "type": "range",
+                        "value": { "from": 100, "to": 250 } 
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "code" : "OFR003",
+        "validation" : [
+            { 
+                "attribute" : "distance",  
+                "rules": [ 
+                    { 
+                        "type": "range",
+                        "value": { "from": 50, "to": 250 } 
+                    } 
+                ]
+            },
+            {
+                "attribute" : "weight",
+                "rules": [
+                    {
+                        "type": "range",
+                        "value": { "from": 10, "to": 150 } 
+                    }
+                ]
+            }
+        ]
+    }
+
+
+]
