@@ -10,10 +10,13 @@
     "typescript": "^4.4.4"
   },
   "devDependencies": {
-    "mocha": "^9.1.3"
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.11.7",
+    "mocha": "^9.1.3",
+    "ts-node": "^10.4.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha tests/**/*.ts"
   },
   "repository": {
     "type": "git",
