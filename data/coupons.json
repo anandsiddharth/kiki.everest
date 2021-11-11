@@ -5,7 +5,7 @@
             "type": "percentage",
             "value": "10"
         },
-        "validation" : [
+        "validations" : [
             { 
                 "attribute" : "distance",  
                 "rules": [ 
@@ -33,7 +33,7 @@
             "type": "percentage",
             "value": "7"
         },
-        "validation" : [
+        "validations" : [
             { 
                 "attribute" : "distance",  
                 "rules": [ 
@@ -61,7 +61,7 @@
             "type": "percentage",
             "value": "5"
         },
-        "validation" : [
+        "validations" : [
             { 
                 "attribute" : "distance",  
                 "rules": [ 
