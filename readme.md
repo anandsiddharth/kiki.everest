@@ -24,4 +24,7 @@ Editor: VS Code <br />
 
 #### kiki the cat
 
-<iframe src="https://giphy.com/embed/2xPVzwwD2dwNOiCnBz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/viralhog-cute-dog-kiki-challenge-2xPVzwwD2dwNOiCnBz">via GIPHY</a></p>
+
+<p align="center">
+  <img width="400" src="https://media.giphy.com/media/2xPVzwwD2dwNOiCnBz/giphy.gif">
+</p>
