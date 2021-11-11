@@ -8,7 +8,7 @@ Editor: VS Code
 ## demo
 
 <p align="center">
-  <img width="700" src="https://raw.githubusercontent.com/anandsiddharth/kiki.everest/master/raw/demo.svg">
+  <img style="width:100%" src="https://raw.githubusercontent.com/anandsiddharth/kiki.everest/master/raw/demo.svg">
 </p>
 
 ### steps to run locally
