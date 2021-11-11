@@ -1,4 +1,3 @@
-import { createNoSubstitutionTemplateLiteral } from "typescript";
 import { Order } from "../order/order";
 
 export const estimate = (noOfVehicles: number, maxSpeed: number, maxWeight: number, orders: Order[]): Order[] => {
