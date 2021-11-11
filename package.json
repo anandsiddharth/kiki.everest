@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/anandsiddharth/everest.git"
+    "url": "https://github.com/anandsiddharth/kiki.everest.git"
   },
   "author": "Anand Siddharth <anand.siddharth@hotmail.com> (https://twitter.com/anand_sid)",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/anandsiddharth/everest/issues"
+    "url": "https://github.com/anandsiddharth/kiki.everest/issues"
   },
-  "homepage": "https://gitlab.com/anandsiddharth/everest#readme"
+  "homepage": "https://github.com/anandsiddharth/kiki.everest"
 }
