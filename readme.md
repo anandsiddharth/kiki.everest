@@ -22,9 +22,4 @@ Editor: VS Code <br />
 
 
 
-#### kiki the cat
 
-
-<p align="left">
-  <img width="400" src="https://media.giphy.com/media/2xPVzwwD2dwNOiCnBz/giphy.gif">
-</p>
