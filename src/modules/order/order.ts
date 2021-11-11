@@ -7,4 +7,6 @@ export interface Order {
     cost?: number
     discount?: number
     total?: number
+
+    eta?: number
 }
