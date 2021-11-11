@@ -1,9 +1,14 @@
 # kiki challenge
 
+Development env
+OS: Mac OS 12.0.1
+Node: v14.15.4
+Editor: VS Code
+
 ## demo
 
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/anandsiddharth/kiki.everest/master/raw/demo.svg">
+  <img width="700" src="https://raw.githubusercontent.com/anandsiddharth/kiki.everest/master/raw/demo.svg">
 </p>
 
 ### steps to run locally
