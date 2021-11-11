@@ -14,3 +14,12 @@ export const bill = (baseDeliveryCost: number, order: Order): Order => {
 
     return order
 }
+
+export const billAll = (baseDeliveryCost: number, order: Order[]): Order[] => {
+
+    for (var i in order) {
+        bill(baseDeliveryCost, order[i])
+    }
+
+    return order;
+}
