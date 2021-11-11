@@ -1,5 +1,11 @@
 # kiki challenge
 
+## demo
+
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/anandsiddharth/kiki.everest/master/raw/demo.svg">
+</p>
+
 ### steps to run locally
 
 1. Clone this repository
